@@ -18,6 +18,11 @@
     <itunes:author>David Maglia</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://davidmaglia.github.io/podcast/pic.PNG"/>
+     <itunes:owner>
+       <itunes:name>David Maglia</itunes:name>
+       <itunes:email>david@example.com</itunes:email>
+     </itunes:owner>
 
     <!-- Pokud zatím nemáš cover, můžeš tohle DOČASNĚ nechat,
          Spotify to vezme i bez něj -->
