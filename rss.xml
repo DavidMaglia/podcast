@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Daily Audio EN</title>
+    <link>https://davidmaglia.github.io/podcast/</link>
+    <description>
+      Automaticky generovaný podcast – přeložený obsah do angličtiny.
+    </description>
+    <language>en</language>
+
+    <atom:link href="https://davidmaglia.github.io/podcast/rss.xml"
+               rel="self"
+               type="application/rss+xml"/>
+
+    <itunes:author>David Maglia</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <!-- Pokud zatím nemáš cover, můžeš tohle DOČASNĚ nechat,
+         Spotify to vezme i bez něj -->
+    <!--
+    <itunes:image href="https://davidmaglia.github.io/podcast/cover.jpg"/>
+    -->
+
+    <!-- === EPIZODA === -->
+    <item>
+      <title>Episode 2026-02-07</title>
+
+      <description><![CDATA[
+      Automatically translated audio episode.
+      ]]></description>
+
+      <pubDate>Sat, 07 Feb 2026 10:49:00 +0100</pubDate>
+
+      <guid isPermaLink="false">2026-02-07-1049</guid>
+
+      <enclosure
+        url="https://davidmaglia.github.io/podcast/2026_02_07_1049_Audio.mp3"
+        type="audio/mpeg"/>
+
+      <itunes:duration>00:20:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
